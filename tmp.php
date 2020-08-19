@@ -1,0 +1,44 @@
+<?php
+// LDAP server IP
+$CFG['ldaphost'] = 'taranis.campus.gla.ac.uk';
+// LDAP context or list of contexts
+$CFG['ldapcontext'] = 'o=Gla';
+// LDAP Bind details
+$CFG['ldapbinduser'] = 'CN=LDAPTTIPS,ou=service,o=gla';
+$CFG['ldapbindpass'] = 'lkl198xgv434rgh';
+
+header('Content-type: text/plain');
+
+$ldap_host = $CFG['ldaphost'];
+$ds = @ldap_connect($ldap_host);
+ldap_bind($ds, $CFG['ldapbinduser'], $CFG['ldapbindpass']);
+
+function show($ds, $username) {
+  $sr = ldap_search($ds, 'o=Gla', "cn=$username");
+  $records = ldap_get_entries($ds, $sr);
+  print_r($records[0]['dn']);
+
+$record = $records[0];
+  if(isset($record['homezipcode'][0]))
+    echo $record['homezipcode'][0];
+  elseif(strpos($record['dn'], 'ou=staff') !== false)
+    echo ' staff';
+  else
+    echo ' nope';
+
+echo "\n";
+}
+
+show($ds, '2088209L');
+show($ds, 'jh305p');
+show($ds, '2088959M');
+show($ds, '2140845P');
+show($ds, '2136948N');
+show($ds, '2260552M');
+show($ds, '0806686M');
+show($ds, '2039054B');
+show($ds, '2111777Y');
+show($ds, '2062820L');
+show($ds, '2114309F');
+show($ds, '1107172P');
+show($ds, '1106679B');

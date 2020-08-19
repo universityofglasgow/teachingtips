@@ -1,0 +1,3444 @@
+2017-07-03 21:01:12
+cn=jh305p,ou=staff,o=gla
+2017-07-03 21:01:12
+checkLoggedInUser
+jh305p
+Array
+(
+    [category] => staff
+    [uname] => jh305p
+    [gn] => John
+    [sn] => Hamer
+    [email] => John.Hamer@glasgow.ac.uk
+    [school] => SCHOOL OF COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+
+2017-07-04 08:21:01
+cn=sh131d,ou=staff,o=gla
+2017-07-04 08:21:01
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-04 09:13:39
+cn=sh131d,ou=staff,o=gla
+2017-07-04 09:13:39
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-04 16:55:43
+cn=so21x,ou=staff,o=gla
+2017-07-04 16:55:43
+checkLoggedInUser
+so21x
+Array
+(
+    [uname] => so21x
+    [gn] => Smita
+    [sn] => Odedra
+    [email] => Smita.Odedra@glasgow.ac.uk
+    [school] => SCHOOL OF CHEMISTRY
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-05 05:55:50
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:55:50
+No permission
+2017-07-05 05:55:50
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:55:56
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:55:56
+No permission
+2017-07-05 05:55:56
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:56:02
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:56:02
+No permission
+2017-07-05 05:56:02
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:56:08
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:56:08
+No permission
+2017-07-05 05:56:08
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:56:29
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:56:29
+No permission
+2017-07-05 05:56:29
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:56:42
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:56:42
+No permission
+2017-07-05 05:56:42
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:56:58
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:56:58
+No permission
+2017-07-05 05:56:58
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:57:01
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:57:01
+No permission
+2017-07-05 05:57:01
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:57:02
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:57:02
+No permission
+2017-07-05 05:57:02
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:57:03
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:57:03
+No permission
+2017-07-05 05:57:03
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:57:04
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:57:04
+No permission
+2017-07-05 05:57:04
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 05:57:06
+cn=2088209L,ou=student,o=gla
+2017-07-05 05:57:06
+No permission
+2017-07-05 05:57:06
+checkLoggedInUser
+2088209L
+
+Error code: No permission
+2017-07-05 10:53:24
+cn=hcp1u,ou=staff,o=gla
+2017-07-05 10:53:24
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-06 10:31:19
+cn=ek78v,ou=staff,o=gla
+2017-07-06 10:31:19
+checkLoggedInUser
+ek78v
+Array
+(
+    [uname] => ek78v
+    [gn] => Elina
+    [sn] => Koristashevskaya
+    [email] => Elina.Koristashevskaya@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-10 12:46:38
+cn=ka55s,ou=staff,o=gla
+2017-07-10 12:46:38
+checkLoggedInUser
+ka55s
+Array
+(
+    [uname] => ka55s
+    [gn] => Katherine
+    [sn] => Allison
+    [email] => Katherine.Allison@glasgow.ac.uk
+    [school] => POLITICS
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-10 13:16:25
+cn=sh292y,ou=staff,o=gla
+2017-07-10 13:16:25
+checkLoggedInUser
+sh292y
+Array
+(
+    [uname] => sh292y
+    [gn] => Sajjad
+    [sn] => Hussain
+    [email] => Sajjad.Hussain@glasgow.ac.uk
+    [school] => ENGINEERING ELECTRONICS & NANO ENG
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-11 09:12:32
+cn=hcp1u,ou=staff,o=gla
+2017-07-11 09:12:32
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-11 09:48:24
+cn=sh131d,ou=staff,o=gla
+2017-07-11 09:48:24
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-11 09:53:24
+cn=pma6p,ou=staff,o=gla
+2017-07-11 09:53:24
+checkLoggedInUser
+pma6p
+Array
+(
+    [uname] => pma6p
+    [gn] => Philip
+    [sn] => McAleer
+    [email] => Philip.McAleer@glasgow.ac.uk
+    [school] => PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-11 10:20:39
+cn=ns51q,ou=staff,o=gla
+2017-07-11 10:20:39
+checkLoggedInUser
+ns51q
+Array
+(
+    [uname] => ns51q
+    [gn] => Niamh
+    [sn] => Stack
+    [email] => Niamh.Stack@glasgow.ac.uk
+    [school] => SCHOOL OF PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-11 11:37:54
+cn=eg117h,ou=staff,o=gla
+2017-07-11 11:37:54
+checkLoggedInUser
+eg117h
+Array
+(
+    [uname] => eg117h
+    [gn] => Eleanor
+    [sn] => Grieve
+    [email] => Eleanor.Grieve@glasgow.ac.uk
+    [school] => HEALTH ECON & TECH ASSESSMENT
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-11 14:18:06
+cn=hcp1u,ou=staff,o=gla
+2017-07-11 14:18:06
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-11 20:44:27
+cn=hcp1u,ou=staff,o=gla
+2017-07-11 20:44:27
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-12 08:13:24
+cn=ns119h,ou=staff,o=gla
+2017-07-12 08:13:24
+checkLoggedInUser
+ns119h
+Array
+(
+    [uname] => ns119h
+    [gn] => Nathalie
+    [sn] => Sheridan
+    [email] => Nathalie.Sheridan@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-12 11:00:58
+cn=sh131d,ou=staff,o=gla
+2017-07-12 11:00:58
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-12 13:59:14
+cn=sh131d,ou=staff,o=gla
+2017-07-12 13:59:14
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-13 14:55:03
+cn=ns51q,ou=staff,o=gla
+2017-07-13 14:55:03
+checkLoggedInUser
+ns51q
+Array
+(
+    [uname] => ns51q
+    [gn] => Niamh
+    [sn] => Stack
+    [email] => Niamh.Stack@glasgow.ac.uk
+    [school] => SCHOOL OF PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-14 08:42:50
+cn=jm292p,ou=staff,o=gla
+2017-07-14 08:42:50
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-14 12:04:18
+cn=jm292p,ou=staff,o=gla
+2017-07-14 12:04:18
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-14 16:11:15
+cn=jm292p,ou=staff,o=gla
+2017-07-14 16:11:15
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-14 19:01:26
+cn=hcp1u,ou=staff,o=gla
+2017-07-14 19:01:26
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-15 14:15:43
+cn=jm292p,ou=staff,o=gla
+2017-07-15 14:15:43
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-16 19:02:46
+cn=jm292p,ou=staff,o=gla
+2017-07-16 19:02:46
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-20 21:26:09
+cn=hcp1u,ou=staff,o=gla
+2017-07-20 21:26:09
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-22 13:25:51
+cn=hcp1u,ou=staff,o=gla
+2017-07-22 13:25:51
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Error code: 
+2017-07-22 17:01:30
+checkLoggedInUser
+jh305p
+
+Message: 'Incorrect username or password.'
+2017-07-23 13:42:56
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-07-23 19:02:29
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-07-24 12:55:36
+checkLoggedInUser
+ms425z
+Array
+(
+    [uname] => ms425z
+    [gn] => Monica
+    [sn] => Smith
+    [email] => Monica.Smith@glasgow.ac.uk
+    [school] => EMPLOYEE & ORGANISATIONAL DEVELOPMENT
+    [isAdmin] => 
+)
+
+Message: ''
+2017-07-24 13:36:17
+checkLoggedInUser
+hcp1u
+
+Message: 'Incorrect username or password.'
+2017-07-24 13:36:25
+checkLoggedInUser
+hcp1u
+
+Message: 'Incorrect username or password.'
+2017-07-24 13:36:25
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-07-24 13:36:25
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-07-24 14:19:26
+checkLoggedInUser
+ms425z
+Array
+(
+    [uname] => ms425z
+    [gn] => Monica
+    [sn] => Smith
+    [email] => Monica.Smith@glasgow.ac.uk
+    [school] => EMPLOYEE & ORGANISATIONAL DEVELOPMENT
+    [isAdmin] => 
+)
+
+Message: ''
+2017-07-24 15:01:45
+checkLoggedInUser
+dp45c
+Array
+(
+    [uname] => dp45c
+    [gn] => Daniel
+    [sn] => Price
+    [email] => Daniel.Price@glasgow.ac.uk
+    [school] => CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-07-24 15:14:09
+checkLoggedInUser
+2088209L
+
+Message: 'You do not have permission to access this site.'
+2017-07-26 15:51:55
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-07-27 13:52:30
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-07-31 15:34:03
+checkLoggedInUser
+alv1p
+Array
+(
+    [uname] => alv1p
+    [gn] => Ashley
+    [sn] => Le Vin
+    [email] => Ashley.Le-Vin@glasgow.ac.uk
+    [school] => ANIMAL BIOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-07-31 16:07:41
+checkLoggedInUser
+lb165b
+Array
+(
+    [uname] => lb165b
+    [gn] => Lisa
+    [sn] => Bradley
+    [email] => Lisa.Bradley@glasgow.ac.uk
+    [school] => SOCIOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-06 18:14:14
+checkLoggedInUser
+mrr7n
+Array
+(
+    [uname] => mrr7n
+    [gn] => Mark
+    [sn] => Richter
+    [email] => Mark.Richter@glasgow.ac.uk
+    [school] => HISTORY OF ART
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-08 15:01:40
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE ADMINISTRATION
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-08 23:57:12
+checkLoggedInUser
+nsb2x
+Array
+(
+    [uname] => nsb2x
+    [gn] => Niall
+    [sn] => Barr
+    [email] => Niall.Barr@glasgow.ac.uk
+    [school] => IT SERVICES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-09 01:43:54
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-09 23:12:01
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-11 08:32:24
+checkLoggedInUser
+nsb2x
+Array
+(
+    [uname] => nsb2x
+    [gn] => Niall
+    [sn] => Barr
+    [email] => Niall.Barr@glasgow.ac.uk
+    [school] => IT SERVICES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-12 16:44:50
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-14 10:46:28
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-14 12:42:15
+checkLoggedInUser
+sh292y
+Array
+(
+    [uname] => sh292y
+    [gn] => Sajjad
+    [sn] => Hussain
+    [email] => Sajjad.Hussain@glasgow.ac.uk
+    [school] => ENGINEERING ELECTRONICS & NANO ENG
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-14 18:21:35
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-21 05:09:31
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-21 11:05:17
+checkLoggedInUser
+kl95x
+Array
+(
+    [uname] => kl95x
+    [gn] => Kyela
+    [sn] => Leakey
+    [email] => Kyela.Leakey@glasgow.ac.uk
+    [school] => SCHOOL OF LAW
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-22 20:00:00
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-23 08:32:34
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-24 16:07:16
+checkLoggedInUser
+ka55s
+Array
+(
+    [uname] => ka55s
+    [gn] => Katherine
+    [sn] => Allison
+    [email] => Katherine.Allison@glasgow.ac.uk
+    [school] => POLITICS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-24 20:53:29
+checkLoggedInUser
+lb165b
+Array
+(
+    [uname] => lb165b
+    [gn] => Lisa
+    [sn] => Bradley
+    [email] => Lisa.Bradley@glasgow.ac.uk
+    [school] => SOCIOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-25 12:33:30
+checkLoggedInUser
+bd42e
+Array
+(
+    [uname] => bd42e
+    [gn] => Beth
+    [sn] => Dickson
+    [email] => Beth.Dickson@glasgow.ac.uk
+    [school] => PROFESSIONAL LEARNING & LEADERSHIP
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-28 21:28:23
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-08-29 20:30:51
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-05 10:46:42
+checkLoggedInUser
+mli1e
+Array
+(
+    [uname] => mli1e
+    [gn] => Monica
+    [sn] => Legazpi-Iglesias
+    [email] => Monica.Legazpi-Iglesias@glasgow.ac.uk
+    [school] => HISPANIC STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-05 23:34:56
+checkLoggedInUser
+mli1e
+Array
+(
+    [uname] => mli1e
+    [gn] => Monica
+    [sn] => Legazpi-Iglesias
+    [email] => Monica.Legazpi-Iglesias@glasgow.ac.uk
+    [school] => HISPANIC STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-08 15:24:12
+checkLoggedInUser
+hw39z
+Array
+(
+    [uname] => hw39z
+    [gn] => Heather
+    [sn] => Cleland Woods
+    [email] => Heather.Woods@glasgow.ac.uk
+    [school] => SCHOOL OF PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-08 15:57:14
+checkLoggedInUser
+hmp8s
+Array
+(
+    [uname] => hmp8s
+    [gn] => Helena
+    [sn] => Paterson
+    [email] => Helena.Paterson@glasgow.ac.uk
+    [school] => PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-13 23:54:21
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-14 10:59:18
+checkLoggedInUser
+pma4w
+Array
+(
+    [uname] => pma4w
+    [gn] => Jane
+    [sn] => McAllister
+    [email] => Jane.McAllister@glasgow.ac.uk
+    [school] => SENATE OFFICE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-19 15:16:02
+checkLoggedInUser
+hmp8s
+Array
+(
+    [uname] => hmp8s
+    [gn] => Helena
+    [sn] => Paterson
+    [email] => Helena.Paterson@glasgow.ac.uk
+    [school] => PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-19 15:17:33
+checkLoggedInUser
+ljs13s
+Array
+(
+    [uname] => ljs13s
+    [gn] => Laura
+    [sn] => Sharp
+    [email] => Laura.Sharp@glasgow.ac.uk
+    [school] => MVLS GRADUATE SCHOOL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-19 21:18:44
+checkLoggedInUser
+mf26k
+Array
+(
+    [uname] => mf26k
+    [gn] => Moira
+    [sn] => Fischbacher-Smith
+    [email] => Moira.Fischbacher-Smith@glasgow.ac.uk
+    [school] => PRINCIPALS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-20 09:15:41
+checkLoggedInUser
+jhd3t
+Array
+(
+    [uname] => jhd3t
+    [gn] => John
+    [sn] => Davies
+    [email] => John.Davies@glasgow.ac.uk
+    [school] => ENGINEERING ELECTRONICS & NANO ENG
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-20 09:53:36
+checkLoggedInUser
+eb174r
+Array
+(
+    [uname] => eb174r
+    [gn] => Elizabeth
+    [sn] => Black
+    [email] => Elizabeth.Black.2@glasgow.ac.uk
+    [school] => SCHOOL OF EDUCATION
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-21 11:16:23
+checkLoggedInUser
+vhd1e
+Array
+(
+    [uname] => vhd1e
+    [gn] => Vicki
+    [sn] => Dale
+    [email] => Vicki.Dale@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-21 12:22:31
+checkLoggedInUser
+db86z
+Array
+(
+    [uname] => db86z
+    [gn] => Dave
+    [sn] => Beck
+    [email] => Dave.Beck@glasgow.ac.uk
+    [school] => SOCIAL JUSTICE, PLACE & LIFELONG ED
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-21 12:33:59
+checkLoggedInUser
+sb396q
+Array
+(
+    [uname] => sb396q
+    [gn] => Susan
+    [sn] => Ballantyne
+    [email] => Susan.Ballantyne@glasgow.ac.uk
+    [school] => SCHOOL OF EDUCATION
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-21 15:30:18
+checkLoggedInUser
+ns55z
+Array
+(
+    [uname] => ns55z
+    [gn] => Nairn
+    [sn] => Scobie
+    [email] => Nairn.Scobie@glasgow.ac.uk
+    [school] => LIFE SCIENCES HUMAN LIFE SCIENCES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-22 14:08:45
+checkLoggedInUser
+jhd3t
+Array
+(
+    [uname] => jhd3t
+    [gn] => John
+    [sn] => Davies
+    [email] => John.Davies@glasgow.ac.uk
+    [school] => ENGINEERING ELECTRONICS & NANO ENG
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-24 05:38:58
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-24 10:43:05
+checkLoggedInUser
+cd206t
+Array
+(
+    [uname] => cd206t
+    [gn] => Catherine
+    [sn] => Dodds
+    [email] => Catherine.Dodds@glasgow.ac.uk
+    [school] => SCHOOL OF INTERDISCIPLINARY STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-25 00:02:36
+checkLoggedInUser
+2088959m
+
+Message: 'You do not have permission to access this site.'
+2017-09-25 04:04:42
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-25 15:37:00
+checkLoggedInUser
+vhd1e
+Array
+(
+    [uname] => vhd1e
+    [gn] => Vicki
+    [sn] => Dale
+    [email] => Vicki.Dale@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-25 19:27:48
+checkLoggedInUser
+mjb24v
+Array
+(
+    [uname] => mjb24v
+    [gn] => Matthew
+    [sn] => Barr
+    [email] => Matthew.Barr@glasgow.ac.uk
+    [school] => INFORMATION STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-26 09:50:06
+checkLoggedInUser
+2284213r
+
+Message: 'You do not have permission to access this site.'
+2017-09-26 11:20:58
+checkLoggedInUser
+jgd4t
+Array
+(
+    [uname] => jgd4t
+    [gn] => James
+    [sn] => Devaney
+    [email] => James.Devaney@glasgow.ac.uk
+    [school] => SCHOOL OF LAW
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-26 16:06:19
+checkLoggedInUser
+sh292y
+Array
+(
+    [uname] => sh292y
+    [gn] => Sajjad
+    [sn] => Hussain
+    [email] => Sajjad.Hussain@glasgow.ac.uk
+    [school] => ENGINEERING ELECTRONICS & NANO ENG
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-26 21:23:54
+checkLoggedInUser
+0503060k
+
+Message: 'You do not have permission to access this site.'
+2017-09-26 21:24:19
+checkLoggedInUser
+j.knotts.1@research.gla.ac.uk
+
+Message: 'Incorrect username or password.'
+2017-09-27 09:22:27
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-09-27 13:20:55
+checkLoggedInUser
+mjb24v
+Array
+(
+    [uname] => mjb24v
+    [gn] => Matthew
+    [sn] => Barr
+    [email] => Matthew.Barr@glasgow.ac.uk
+    [school] => INFORMATION STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-02 19:24:12
+checkLoggedInUser
+mjb24v
+Array
+(
+    [uname] => mjb24v
+    [gn] => Matthew
+    [sn] => Barr
+    [email] => Matthew.Barr@glasgow.ac.uk
+    [school] => INFORMATION STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-02 19:25:24
+checkLoggedInUser
+mjb24v
+
+Message: 'Incorrect username or password.'
+2017-10-02 19:25:33
+checkLoggedInUser
+mjb24v
+Array
+(
+    [uname] => mjb24v
+    [gn] => Matthew
+    [sn] => Barr
+    [email] => Matthew.Barr@glasgow.ac.uk
+    [school] => INFORMATION STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-02 19:25:55
+checkLoggedInUser
+mjb24v
+Array
+(
+    [uname] => mjb24v
+    [gn] => Matthew
+    [sn] => Barr
+    [email] => Matthew.Barr@glasgow.ac.uk
+    [school] => INFORMATION STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-02 23:08:37
+checkLoggedInUser
+iv9y
+Array
+(
+    [uname] => iv9y
+    [gn] => Ingeborg
+    [sn] => Van Knippenberg
+    [email] => Ingeborg.VanKnippenberg@glasgow.ac.uk
+    [school] => CENTRE FOR VIRUS RESEARCH
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-03 14:28:11
+checkLoggedInUser
+jp64p
+Array
+(
+    [uname] => jp64p
+    [gn] => James
+    [sn] => Phillips
+    [email] => James.Phillips@glasgow.ac.uk
+    [school] => ECONOMIC & SOCIAL HISTORY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-04 19:23:21
+checkLoggedInUser
+ajw8r
+Array
+(
+    [uname] => ajw8r
+    [gn] => Andrew
+    [sn] => Wilson
+    [email] => Andrew.Wilson@glasgow.ac.uk
+    [school] => MATHEMATICS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-09 05:18:43
+checkLoggedInUser
+rds9k
+Array
+(
+    [uname] => rds9k
+    [gn] => Radostin
+    [sn] => Simitev
+    [email] => Radostin.Simitev@glasgow.ac.uk
+    [school] => MATHEMATICS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-10 18:19:07
+checkLoggedInUser
+so21x
+Array
+(
+    [uname] => so21x
+    [gn] => Smita
+    [sn] => Odedra
+    [email] => Smita.Odedra@glasgow.ac.uk
+    [school] => SCHOOL OF CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-11 16:41:04
+checkLoggedInUser
+cm297w
+Array
+(
+    [uname] => cm297w
+    [gn] => Caroline
+    [sn] => Martin
+    [email] => Caroline.Martin@glasgow.ac.uk
+    [school] => IT SERVICES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-11 23:31:10
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-12 12:11:03
+checkLoggedInUser
+ns119h
+Array
+(
+    [uname] => ns119h
+    [gn] => Nathalie
+    [sn] => Sheridan
+    [email] => Nathalie.Sheridan@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-13 10:21:43
+checkLoggedInUser
+djn4d
+Array
+(
+    [uname] => djn4d
+    [gn] => David
+    [sn] => Nicol
+    [email] => David.Nicol@glasgow.ac.uk
+    [school] => ADAM SMITH BUSINESS SCHOOL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-13 12:27:05
+checkLoggedInUser
+ns119h
+Array
+(
+    [uname] => ns119h
+    [gn] => Nathalie
+    [sn] => Sheridan
+    [email] => Nathalie.Sheridan@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-13 12:27:18
+checkLoggedInUser
+ge24g
+Array
+(
+    [uname] => ge24g
+    [gn] => Graham
+    [sn] => Eatough
+    [email] => Graham.Eatough@glasgow.ac.uk
+    [school] => THEATRE FILM AND TV STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-13 15:25:53
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-16 16:21:51
+checkLoggedInUser
+kms16k
+Array
+(
+    [uname] => kms16k
+    [gn] => Karen
+    [sn] => Siegel
+    [email] => Karen.Siegel@glasgow.ac.uk
+    [school] => POLITICS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-16 18:31:11
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-16 18:48:57
+checkLoggedInUser
+jhs2q
+Array
+(
+    [uname] => jhs2q
+    [gn] => James
+    [sn] => Sharp
+    [email] => James.Sharp@glasgow.ac.uk
+    [school] => ENGINEERING SYSTEMS POWER & ENERGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-17 12:13:20
+checkLoggedInUser
+kms16k
+Array
+(
+    [uname] => kms16k
+    [gn] => Karen
+    [sn] => Siegel
+    [email] => Karen.Siegel@glasgow.ac.uk
+    [school] => POLITICS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-17 13:39:52
+checkLoggedInUser
+ajw8r
+Array
+(
+    [uname] => ajw8r
+    [gn] => Andrew
+    [sn] => Wilson
+    [email] => Andrew.Wilson@glasgow.ac.uk
+    [school] => MATHEMATICS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-17 17:11:11
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-20 01:21:30
+checkLoggedInUser
+hmp8s
+Array
+(
+    [uname] => hmp8s
+    [gn] => Helena
+    [sn] => Paterson
+    [email] => Helena.Paterson@glasgow.ac.uk
+    [school] => PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-20 01:31:23
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-20 17:36:12
+checkLoggedInUser
+cac12n
+Array
+(
+    [uname] => cac12n
+    [gn] => Christina
+    [sn] => Cobbold
+    [email] => Christina.Cobbold@glasgow.ac.uk
+    [school] => MATHEMATICS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-20 17:51:31
+checkLoggedInUser
+iv9y
+Array
+(
+    [uname] => iv9y
+    [gn] => Ingeborg
+    [sn] => Van Knippenberg
+    [email] => Ingeborg.VanKnippenberg@glasgow.ac.uk
+    [school] => CENTRE FOR VIRUS RESEARCH
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-23 07:22:53
+checkLoggedInUser
+hmp8s
+Array
+(
+    [uname] => hmp8s
+    [gn] => Helena
+    [sn] => Paterson
+    [email] => Helena.Paterson@glasgow.ac.uk
+    [school] => PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-23 15:04:46
+checkLoggedInUser
+ms278b
+Array
+(
+    [uname] => ms278b
+    [gn] => Marguerite Luci
+    [sn] => Schinkel
+    [email] => Marguerite.Schinkel@glasgow.ac.uk
+    [school] => SOCIOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-25 11:26:10
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-25 15:01:34
+checkLoggedInUser
+dh111f
+Array
+(
+    [uname] => dh111f
+    [gn] => David
+    [sn] => Hammond
+    [email] => Drew.Hammond@glasgow.ac.uk
+    [school] => MUSIC
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-25 16:37:54
+checkLoggedInUser
+fh24z
+Array
+(
+    [uname] => fh24z
+    [gn] => Frank
+    [sn] => Hopfgartner
+    [email] => Frank.Hopfgartner@glasgow.ac.uk
+    [school] => INFORMATION STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-26 14:19:09
+checkLoggedInUser
+nal2c
+Array
+(
+    [uname] => nal2c
+    [gn] => Nicolas
+    [sn] => Labrosse
+    [email] => Nicolas.Labrosse@glasgow.ac.uk
+    [school] => PHYSICS & ASTRONOMY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-27 11:16:06
+checkLoggedInUser
+lg69w
+Array
+(
+    [uname] => lg69w
+    [gn] => Luis
+    [sn] => Gomes
+    [email] => Luis.Gomes@glasgow.ac.uk
+    [school] => HISPANIC STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-27 11:19:27
+checkLoggedInUser
+ms278b
+
+Message: 'Incorrect username or password.'
+2017-10-27 11:19:38
+checkLoggedInUser
+ms278b
+Array
+(
+    [uname] => ms278b
+    [gn] => Marguerite Luci
+    [sn] => Schinkel
+    [email] => Marguerite.Schinkel@glasgow.ac.uk
+    [school] => SOCIOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-27 17:22:29
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-28 08:31:45
+checkLoggedInUser
+djn4d
+Array
+(
+    [uname] => djn4d
+    [gn] => David
+    [sn] => Nicol
+    [email] => David.Nicol@glasgow.ac.uk
+    [school] => ADAM SMITH BUSINESS SCHOOL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-30 11:52:47
+checkLoggedInUser
+mvmc1c
+Array
+(
+    [uname] => mvmc1c
+    [gn] => Maxine
+    [sn] => Swingler
+    [email] => Maxine.Swingler@glasgow.ac.uk
+    [school] => PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-10-31 09:01:52
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-01 15:47:09
+checkLoggedInUser
+so21x
+Array
+(
+    [uname] => so21x
+    [gn] => Smita
+    [sn] => Odedra
+    [email] => Smita.Odedra@glasgow.ac.uk
+    [school] => SCHOOL OF CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-04 11:53:46
+checkLoggedInUser
+hmp8s
+Array
+(
+    [uname] => hmp8s
+    [gn] => Helena
+    [sn] => Paterson
+    [email] => Helena.Paterson@glasgow.ac.uk
+    [school] => PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-07 20:59:28
+checkLoggedInUser
+kt59s
+Array
+(
+    [uname] => kt59s
+    [gn] => Karen
+    [sn] => Thompson
+    [email] => Karen.Thompson@glasgow.ac.uk
+    [school] => HISTORY OF ART
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-08 15:24:09
+checkLoggedInUser
+tm26g
+Array
+(
+    [uname] => tm26g
+    [gn] => Tracy
+    [sn] => Maxwell
+    [email] => Tracy.Maxwell@glasgow.ac.uk
+    [school] => MVLS GRADUATE SCHOOL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-09 15:31:05
+checkLoggedInUser
+cw127p
+
+Message: 'Incorrect username or password.'
+2017-11-12 22:27:27
+checkLoggedInUser
+ch246a
+Array
+(
+    [uname] => ch246a
+    [gn] => Christine
+    [sn] => Hadfield
+    [email] => Christine.Hadfield@glasgow.ac.uk
+    [school] => PEDAGOGY, POLICY & PRACTICE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-14 15:08:19
+checkLoggedInUser
+so21x
+Array
+(
+    [uname] => so21x
+    [gn] => Smita
+    [sn] => Odedra
+    [email] => Smita.Odedra@glasgow.ac.uk
+    [school] => SCHOOL OF CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-15 09:46:21
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-15 12:27:52
+checkLoggedInUser
+tm26g
+
+Message: 'Incorrect username or password.'
+2017-11-15 13:22:13
+checkLoggedInUser
+so21x
+Array
+(
+    [uname] => so21x
+    [gn] => Smita
+    [sn] => Odedra
+    [email] => Smita.Odedra@glasgow.ac.uk
+    [school] => SCHOOL OF CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-20 09:39:14
+checkLoggedInUser
+nr70b
+Array
+(
+    [uname] => nr70b
+    [gn] => Naomi
+    [sn] => Richards
+    [email] => Naomi.Richards@glasgow.ac.uk
+    [school] => SCHOOL OF INTERDISCIPLINARY STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-20 12:35:51
+checkLoggedInUser
+ig29k
+Array
+(
+    [uname] => ig29k
+    [gn] => Ian
+    [sn] => Garwood
+    [email] => Ian.Garwood@glasgow.ac.uk
+    [school] => THEATRE FILM AND TV STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-20 12:51:28
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-20 16:06:50
+checkLoggedInUser
+so21x
+Array
+(
+    [uname] => so21x
+    [gn] => Smita
+    [sn] => Odedra
+    [email] => Smita.Odedra@glasgow.ac.uk
+    [school] => SCHOOL OF CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-20 18:45:25
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-21 09:23:46
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-21 13:34:20
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-22 08:44:38
+checkLoggedInUser
+vhd1e
+Array
+(
+    [uname] => vhd1e
+    [gn] => Vicki
+    [sn] => Dale
+    [email] => Vicki.Dale@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-22 10:13:57
+checkLoggedInUser
+App13x
+Array
+(
+    [uname] => app13x
+    [gn] => Amanda
+    [sn] => Pate
+    [email] => Amanda.Pate@glasgow.ac.uk
+    [school] => STUDENT LEARNING DEVEOPMENT
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-22 10:15:58
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-23 11:31:49
+checkLoggedInUser
+ess12a
+Array
+(
+    [uname] => ess12a
+    [gn] => Ellen
+    [sn] => Spaeth
+    [email] => El.Spaeth@glasgow.ac.uk
+    [school] => STUDENT LEARNING DEVEOPMENT
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-23 13:56:21
+checkLoggedInUser
+so21x
+Array
+(
+    [uname] => so21x
+    [gn] => Smita
+    [sn] => Odedra
+    [email] => Smita.Odedra@glasgow.ac.uk
+    [school] => SCHOOL OF CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-23 14:52:21
+checkLoggedInUser
+so21x
+Array
+(
+    [uname] => so21x
+    [gn] => Smita
+    [sn] => Odedra
+    [email] => Smita.Odedra@glasgow.ac.uk
+    [school] => SCHOOL OF CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-27 12:31:18
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-27 20:30:48
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-28 10:36:59
+checkLoggedInUser
+jhd3t
+Array
+(
+    [uname] => jhd3t
+    [gn] => John
+    [sn] => Davies
+    [email] => John.Davies@glasgow.ac.uk
+    [school] => ENGINEERING ELECTRONICS & NANO ENG
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-29 15:03:56
+checkLoggedInUser
+so21x
+Array
+(
+    [uname] => so21x
+    [gn] => Smita
+    [sn] => Odedra
+    [email] => Smita.Odedra@glasgow.ac.uk
+    [school] => SCHOOL OF CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-29 16:40:52
+checkLoggedInUser
+wk26r
+Array
+(
+    [uname] => wk26r
+    [gn] => William
+    [sn] => Kelly
+    [email] => William.Kelly@glasgow.ac.uk
+    [school] => SCHOOL OF GEOGRAPHICAL & EARTH SCIENCES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-29 16:48:01
+checkLoggedInUser
+2350425P
+
+Message: 'You do not have permission to access this site.'
+2017-11-30 09:44:07
+checkLoggedInUser
+nsb2x
+Array
+(
+    [uname] => nsb2x
+    [gn] => Niall
+    [sn] => Barr
+    [email] => Niall.Barr@glasgow.ac.uk
+    [school] => IT SERVICES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-11-30 14:08:39
+checkLoggedInUser
+jw251g
+Array
+(
+    [uname] => jw251g
+    [gn] => Joanna
+    [sn] => Wincenciak
+    [email] => Joanna.Wincenciak@glasgow.ac.uk
+    [school] => EDUCATION
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-05 16:04:41
+checkLoggedInUser
+rse2h
+Array
+(
+    [uname] => rse2h
+    [gn] => Rachel
+    [sn] => Elmslie
+    [email] => Rachel.Elmslie@glasgow.ac.uk
+    [school] => LANGUAGE CENTRE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-05 16:22:22
+checkLoggedInUser
+mb492m
+Array
+(
+    [uname] => mb492m
+    [gn] => Madalena
+    [sn] => Bizarro
+    [email] => Madalena.Bizarro@glasgow.ac.uk
+    [school] => HISPANIC STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-05 23:56:35
+checkLoggedInUser
+ncs7z
+Array
+(
+    [uname] => ncs7z
+    [gn] => Niall
+    [sn] => Smith
+    [email] => Niall.Smith@glasgow.ac.uk
+    [school] => MEDICINE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-06 11:20:37
+checkLoggedInUser
+jd241h
+Array
+(
+    [uname] => jd241h
+    [gn] => Jennifer
+    [sn] => Deane
+    [email] => Jenny.Deane@glasgow.ac.uk
+    [school] => SS ACADEMIC & STUDENT ADMINISTRATION
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-07 11:17:09
+checkLoggedInUser
+pc209y
+Array
+(
+    [uname] => pc209y
+    [gn] => Paul
+    [sn] => Cannon
+    [email] => Paul.Cannon@glasgow.ac.uk
+    [school] => LIBRARY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-07 11:54:51
+checkLoggedInUser
+vmmd2v
+Array
+(
+    [uname] => vmmd2v
+    [gn] => Vanessa
+    [sn] => McDonagh
+    [email] => Vanessa.Mcdonagh@glasgow.ac.uk
+    [school] => LANGUAGE CENTRE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-07 12:21:28
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-07 16:33:09
+checkLoggedInUser
+aad5w
+Array
+(
+    [uname] => aad5w
+    [gn] => Adam
+    [sn] => Donnelly
+    [email] => Adam.Donnelly@glasgow.ac.uk
+    [school] => LANGUAGE CENTRE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-07 17:35:32
+checkLoggedInUser
+jrk1y
+Array
+(
+    [uname] => jrk1y
+    [gn] => John
+    [sn] => Kusel
+    [email] => John.Kusel@glasgow.ac.uk
+    [school] => CENTRE FOR OPEN STUDIES TEACHING
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-08 08:35:58
+checkLoggedInUser
+ljs13s
+Array
+(
+    [uname] => ljs13s
+    [gn] => Laura
+    [sn] => Sharp
+    [email] => Laura.Sharp@glasgow.ac.uk
+    [school] => MVLS GRADUATE SCHOOL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-09 21:22:39
+checkLoggedInUser
+ep97x
+Array
+(
+    [uname] => ep97x
+    [gn] => Elizabeth
+    [sn] => Paterson
+    [email] => Elizabeth.Paterson@glasgow.ac.uk
+    [school] => REGISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-10 16:24:58
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-10 21:35:10
+checkLoggedInUser
+ep97x
+
+Message: 'Incorrect username or password.'
+2017-12-10 21:35:18
+checkLoggedInUser
+ep97x
+
+Message: 'Incorrect username or password.'
+2017-12-10 21:35:26
+checkLoggedInUser
+ep97x
+
+Message: 'Incorrect username or password.'
+2017-12-10 21:35:34
+checkLoggedInUser
+ep97x
+
+Message: 'Incorrect username or password.'
+2017-12-11 11:25:56
+checkLoggedInUser
+jkd4c
+Array
+(
+    [uname] => jkd4c
+    [gn] => Jennifer
+    [sn] => Robertson
+    [email] => Jennifer.Robertson@glasgow.ac.uk
+    [school] => LIBRARY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-11 11:32:33
+checkLoggedInUser
+mjb24v
+Array
+(
+    [uname] => mjb24v
+    [gn] => Matthew
+    [sn] => Barr
+    [email] => Matthew.Barr@glasgow.ac.uk
+    [school] => INFORMATION STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-12 08:51:59
+checkLoggedInUser
+sr147b
+Array
+(
+    [uname] => sr147b
+    [gn] => Scott
+    [sn] => Ramsay
+    [email] => Scott.Ramsay.2@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-12 11:40:12
+checkLoggedInUser
+ak187u
+Array
+(
+    [uname] => ak187u
+    [gn] => Aneta
+    [sn] => Marren
+    [email] => Aneta.Marren@glasgow.ac.uk
+    [school] => SCHOOL OF MODERN LANGUAGES & CULTURES
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-12 15:53:57
+checkLoggedInUser
+Sophia Dingli
+
+Message: 'Incorrect username or password.'
+2017-12-12 15:54:06
+checkLoggedInUser
+sd202x
+Array
+(
+    [uname] => sd202x
+    [gn] => Sofia
+    [sn] => Dingli
+    [email] => Sophia.Dingli@glasgow.ac.uk
+    [school] => POLITICS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-13 13:26:52
+checkLoggedInUser
+bw63w
+
+Message: 'Incorrect username or password.'
+2017-12-13 13:27:01
+checkLoggedInUser
+bw63w
+Array
+(
+    [uname] => bw63w
+    [gn] => Benjamin Thomas
+    [sn] => White
+    [email] => BenjaminThomas.White@glasgow.ac.uk
+    [school] => HISTORY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-13 16:41:02
+checkLoggedInUser
+2220583O
+
+Message: 'You do not have permission to access this site.'
+2017-12-13 16:41:17
+checkLoggedInUser
+io18n
+Array
+(
+    [uname] => io18n
+    [gn] => Iiris Karoliina
+    [sn] => Ollikainen
+    [email] => Karoliina.Ollikainen@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-14 08:44:43
+checkLoggedInUser
+bp16t
+Array
+(
+    [uname] => bp16t
+    [gn] => Beth
+    [sn] => Paschke
+    [email] => Beth.Paschke@glasgow.ac.uk
+    [school] => CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-14 08:49:58
+checkLoggedInUser
+bp16t
+Array
+(
+    [uname] => bp16t
+    [gn] => Beth
+    [sn] => Paschke
+    [email] => Beth.Paschke@glasgow.ac.uk
+    [school] => CHEMISTRY
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-14 13:54:31
+checkLoggedInUser
+pb180x
+
+Message: 'Incorrect username or password.'
+2017-12-14 14:09:25
+checkLoggedInUser
+pb180x
+Array
+(
+    [uname] => pb180x
+    [gn] => Patrick
+    [sn] => Bayer
+    [email] => Patrick.Bayer@glasgow.ac.uk
+    [school] => POLITICS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-14 17:49:10
+checkLoggedInUser
+pb180x
+Array
+(
+    [uname] => pb180x
+    [gn] => Patrick
+    [sn] => Bayer
+    [email] => Patrick.Bayer@glasgow.ac.uk
+    [school] => POLITICS
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-14 20:56:38
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-15 19:10:41
+checkLoggedInUser
+jdh16c
+Array
+(
+    [uname] => jdh16c
+    [gn] => Jan
+    [sn] => De Muijnck-Hughes
+    [email] => Jan.DeMuijnck-Hughes@glasgow.ac.uk
+    [school] => SCHOOL OF COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-18 17:08:30
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-19 22:18:40
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2017-12-31 05:32:05
+checkLoggedInUser
+iv9y
+Array
+(
+    [uname] => iv9y
+    [gn] => Ingeborg
+    [sn] => Van Knippenberg
+    [email] => Ingeborg.VanKnippenberg@glasgow.ac.uk
+    [school] => CENTRE FOR VIRUS RESEARCH
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-01 15:56:31
+checkLoggedInUser
+mj124m
+Array
+(
+    [uname] => mj124m
+    [gn] => Mark
+    [sn] => Johnston
+    [email] => Mark.Johnston@glasgow.ac.uk
+    [school] => IT SERVICES
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-01 16:04:51
+checkLoggedInUser
+mj124m
+Array
+(
+    [uname] => mj124m
+    [gn] => Mark
+    [sn] => Johnston
+    [email] => Mark.Johnston@glasgow.ac.uk
+    [school] => IT SERVICES
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-04 09:35:50
+checkLoggedInUser
+kl123c
+Array
+(
+    [uname] => kl123c
+    [gn] => Katherine
+    [sn] => Lloyd
+    [email] => Katherine.Lloyd@glasgow.ac.uk
+    [school] => INFORMATION STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-04 10:02:41
+checkLoggedInUser
+lh166n
+Array
+(
+    [uname] => lh166n
+    [gn] => Louise
+    [sn] => Harris
+    [email] => Louise.Harris@glasgow.ac.uk
+    [school] => MUSIC
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-04 10:10:49
+checkLoggedInUser
+hnn1x
+Array
+(
+    [uname] => hnn1x
+    [gn] => Hannah
+    [sn] => Newham
+    [email] => Hannah.Newham@glasgow.ac.uk
+    [school] => RI: III ADMINISTRATION
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-04 11:24:53
+checkLoggedInUser
+gbs5n
+Array
+(
+    [uname] => gbs5n
+    [gn] => Gillian
+    [sn] => Smith
+    [email] => Gillian.Smith@glasgow.ac.uk
+    [school] => MODERN LANGUAGES ADMINISTRATION
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-04 12:09:19
+checkLoggedInUser
+kws8f
+Array
+(
+    [uname] => kws8f
+    [gn] => Kevin
+    [sn] => Wilson-Smith
+    [email] => Kevin.Wilson-Smith@glasgow.ac.uk
+    [school] => SCHOOL OF PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-04 14:37:09
+checkLoggedInUser
+2198207s
+
+Message: 'You do not have permission to access this site.'
+2018-01-04 15:44:24
+checkLoggedInUser
+ab163p
+Array
+(
+    [uname] => ab163p
+    [gn] => Alison
+    [sn] => Browitt
+    [email] => Alison.Browitt@glasgow.ac.uk
+    [school] => MARKETING, RECRUIT & INT OFFICE
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-04 19:20:34
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-05 11:44:36
+checkLoggedInUser
+ep82v
+
+Message: 'Incorrect username or password.'
+2018-01-05 11:44:46
+checkLoggedInUser
+ep82v
+Array
+(
+    [uname] => ep82v
+    [gn] => Elizabeth
+    [sn] => Petrie
+    [email] => Elizabeth.Petrie@glasgow.ac.uk
+    [school] => SCHOOL OF GEOGRAPHICAL & EARTH SCIENCES
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-05 14:24:30
+checkLoggedInUser
+sa108q
+Array
+(
+    [uname] => sa108q
+    [gn] => Shazia
+    [sn] => Ahmed
+    [email] => Shazia.Ahmed@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-06 11:39:22
+checkLoggedInUser
+mc385d
+Array
+(
+    [uname] => mc385d
+    [gn] => Maureen
+    [sn] => Carnan
+    [email] => Maureen.Carnan@glasgow.ac.uk
+    [school] => VETERINARY SCIENCE AND EDUCATION
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-07 13:56:31
+checkLoggedInUser
+jw251g
+Array
+(
+    [uname] => jw251g
+    [gn] => Joanna
+    [sn] => Wincenciak
+    [email] => Joanna.Wincenciak@glasgow.ac.uk
+    [school] => EDUCATION
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-07 14:45:11
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-08 10:50:02
+checkLoggedInUser
+ws33t
+Array
+(
+    [uname] => ws33t
+    [gn] => Wendy
+    [sn] => McAllan
+    [email] => Wendy.Mcallan@glasgow.ac.uk
+    [school] => DENTAL SCHOOL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-08 11:18:39
+checkLoggedInUser
+kd88v
+Array
+(
+    [uname] => kd88v
+    [gn] => Katherine
+    [sn] => Duffy
+    [email] => Katherine.Duffy@glasgow.ac.uk
+    [school] => MANAGEMENT
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-08 11:22:31
+checkLoggedInUser
+wjn1t
+Array
+(
+    [uname] => wjn1t
+    [gn] => William
+    [sn] => Nixon
+    [email] => William.Nixon@glasgow.ac.uk
+    [school] => LIBRARY
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-08 15:02:51
+checkLoggedInUser
+tp27s
+Array
+(
+    [uname] => tp27s
+    [gn] => Teresa
+    [sn] => Piacentini
+    [email] => Teresa.Piacentini@glasgow.ac.uk
+    [school] => SOCIOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-08 15:10:22
+checkLoggedInUser
+jw251g
+Array
+(
+    [uname] => jw251g
+    [gn] => Joanna
+    [sn] => Wincenciak
+    [email] => Joanna.Wincenciak@glasgow.ac.uk
+    [school] => EDUCATION
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-09 09:06:30
+checkLoggedInUser
+zm19b
+Array
+(
+    [uname] => zm19b
+    [gn] => Zamantha
+    [sn] => Marshall
+    [email] => Zamantha.Marshall@glasgow.ac.uk
+    [school] => VETERINARY SCIENCE AND EDUCATION
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-09 09:23:05
+checkLoggedInUser
+vhd1e
+Array
+(
+    [uname] => vhd1e
+    [gn] => Vicki
+    [sn] => Dale
+    [email] => Vicki.Dale@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-09 09:40:15
+checkLoggedInUser
+ws33t
+Array
+(
+    [uname] => ws33t
+    [gn] => Wendy
+    [sn] => McAllan
+    [email] => Wendy.Mcallan@glasgow.ac.uk
+    [school] => DENTAL SCHOOL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-09 12:04:02
+checkLoggedInUser
+akr1v
+Array
+(
+    [uname] => akr1v
+    [gn] => Anna
+    [sn] => Rolinska
+    [email] => Anna.Rolinska@glasgow.ac.uk
+    [school] => LANGUAGE CENTRE
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-09 13:11:38
+checkLoggedInUser
+tp27s
+Array
+(
+    [uname] => tp27s
+    [gn] => Teresa
+    [sn] => Piacentini
+    [email] => Teresa.Piacentini@glasgow.ac.uk
+    [school] => SOCIOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-09 13:27:50
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-09 14:44:20
+checkLoggedInUser
+Richard Bond
+
+Message: 'Incorrect username or password.'
+2018-01-09 21:16:20
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-10 08:24:30
+checkLoggedInUser
+vhd1e
+Array
+(
+    [uname] => vhd1e
+    [gn] => Vicki
+    [sn] => Dale
+    [email] => Vicki.Dale@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-10 09:09:09
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-12 15:18:28
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-12 15:20:04
+checkLoggedInUser
+tp27s
+Array
+(
+    [uname] => tp27s
+    [gn] => Teresa
+    [sn] => Piacentini
+    [email] => Teresa.Piacentini@glasgow.ac.uk
+    [school] => SOCIOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-14 12:45:04
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-15 18:15:54
+checkLoggedInUser
+cmd39d
+Array
+(
+    [uname] => cmd39d
+    [gn] => Carole
+    [sn] => MacDiarmid
+    [email] => Carole.MacDiarmid@glasgow.ac.uk
+    [school] => LANGUAGE CENTRE
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-16 23:47:38
+checkLoggedInUser
+jc411r
+Array
+(
+    [uname] => jc411r
+    [gn] => Jackie
+    [sn] => Clarke
+    [email] => Jackie.Clarke@glasgow.ac.uk
+    [school] => FRENCH
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-17 15:36:22
+checkLoggedInUser
+lg69w
+Array
+(
+    [uname] => lg69w
+    [gn] => Luis
+    [sn] => Gomes
+    [email] => Luis.Gomes@glasgow.ac.uk
+    [school] => HISPANIC STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-17 16:23:35
+checkLoggedInUser
+jm292p
+Array
+(
+    [uname] => jm292p
+    [gn] => Joseph
+    [sn] => Maguire
+    [email] => Joseph.Maguire@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-18 13:21:25
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-18 18:56:31
+checkLoggedInUser
+eoc1j
+Array
+(
+    [uname] => eoc1j
+    [gn] => Eanna
+    [sn] => O'Ceallachain
+    [email] => Eanna.O'Ceallachain@glasgow.ac.uk
+    [school] => ITALIAN
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-19 06:04:43
+checkLoggedInUser
+yk2f
+Array
+(
+    [uname] => yk2f
+    [gn] => Yunhyong
+    [sn] => Kim
+    [email] => Yunhyong.Kim@glasgow.ac.uk
+    [school] => INFORMATION STUDIES
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-20 16:02:16
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-21 17:20:13
+checkLoggedInUser
+zm19b
+Array
+(
+    [uname] => zm19b
+    [gn] => Zamantha
+    [sn] => Marshall
+    [email] => Zamantha.Marshall@glasgow.ac.uk
+    [school] => VETERINARY SCIENCE AND EDUCATION
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-22 14:58:12
+checkLoggedInUser
+jod3d
+Array
+(
+    [uname] => jod3d
+    [gn] => John
+    [sn] => O'Donnell
+    [email] => John.O'Donnell@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-22 17:28:34
+checkLoggedInUser
+hcp1u
+Array
+(
+    [uname] => hcp1u
+    [gn] => Helen
+    [sn] => Purchase
+    [email] => Helen.Purchase@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-24 10:47:55
+checkLoggedInUser
+ms278b
+Array
+(
+    [uname] => ms278b
+    [gn] => Marguerite Luci
+    [sn] => Schinkel
+    [email] => Marguerite.Schinkel@glasgow.ac.uk
+    [school] => SOCIOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-30 14:08:20
+checkLoggedInUser
+sh131d
+Array
+(
+    [uname] => sh131d
+    [gn] => Sarah
+    [sn] => Honeychurch
+    [email] => Sarah.Honeychurch@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-01-30 16:32:08
+checkLoggedInUser
+wa11b
+Array
+(
+    [uname] => wa11b
+    [gn] => Wendy
+    [sn] => Anderson
+    [email] => Wendy.Anderson@glasgow.ac.uk
+    [school] => ENGLISH LANGUAGE & LINGUISTICS
+    [isAdmin] => 
+)
+
+Message: ''
+2018-02-01 15:45:12
+checkLoggedInUser
+jd333a
+Array
+(
+    [uname] => jd333a
+    [gn] => Jeff
+    [sn] => Dalton
+    [email] => Jeff.Dalton@glasgow.ac.uk
+    [school] => COMPUTING SCIENCE
+    [isAdmin] => 
+)
+
+Message: ''
+2018-02-01 15:53:29
+checkLoggedInUser
+edl2a
+Array
+(
+    [uname] => edl2a
+    [gn] => Emanuele
+    [sn] => De Luca
+    [email] => Emanuele.DeLuca@glasgow.ac.uk
+    [school] => PSYCHOLOGY
+    [isAdmin] => 
+)
+
+Message: ''
+2018-02-02 13:46:57
+checkLoggedInUser
+23038387C
+
+Message: 'Incorrect username or password.'
+2018-02-02 13:47:17
+checkLoggedInUser
+2303887C
+
+Message: 'You do not have permission to access this site.'
+2018-02-02 13:47:25
+checkLoggedInUser
+23038387
+
+Message: 'Incorrect username or password.'
+2018-02-02 13:47:33
+checkLoggedInUser
+2303887C
+
+Message: 'You do not have permission to access this site.'
+2018-02-02 13:48:41
+checkLoggedInUser
+2303887C
+
+Message: 'You do not have permission to access this site.'
+2018-02-05 10:25:08
+checkLoggedInUser
+ek78v
+Array
+(
+    [uname] => ek78v
+    [gn] => Elina
+    [sn] => Koristashevskaya
+    [email] => Elina.Koristashevskaya@glasgow.ac.uk
+    [school] => LEARNING ENHANCMENT & ACAD DEVEL
+    [isAdmin] => 
+)
+
+Message: ''
+2018-02-06 10:08:30
+checkLoggedInUser
+nsb2x
+Array
+(
+    [uname] => nsb2x
+    [gn] => Niall
+    [sn] => Barr
+    [email] => Niall.Barr@glasgow.ac.uk
+    [school] => IT SERVICES
+    [isAdmin] => 
+)
+
+Message: ''

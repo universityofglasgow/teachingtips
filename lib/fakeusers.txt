@@ -1,0 +1,22 @@
+user1:password:Anna:McGregor:Anna.Mcgregor@glasgow.ac.uk:staff
+user2:password:Beth:Paschke:Beth.Paschke@glasgow.ac.uk:staff
+user3:password:Chris:Lindsay:Chris.Lindsay@glasgow.ac.uk:staff
+user4:password:Elaine:Houston:Elaine.Huston@glasgow.ac.uk:staff
+user5:password:Fiona:Bradley:Fiona.Bradley@glasgow.ac.uk:staff
+user6:password:Fiona:Dowell:Fiona.Dowell@glasgow.ac.uk:staff
+user7:password:Hanif:Veeramani:Harish.Veeramani@glasgow.ac.uk:staff
+user8:password:Helen:Purchase:Helen.Purchase@glasgow.ac.uk:staff
+user9:password:Karen:Wright:Karen.Wright@glasgow.ac.uk:staff
+user10:password:Katherine:Price:Katherine.Price@glasgow.ac.uk:staff
+user11:password:Lisa Irene:Hau:Lisa.Hau@glasgow.ac.uk:staff
+user12:password:Margaret:Martin:Margaret.S.Martin@glasgow.ac.uk:staff
+user13:password:Matt:Dawson:Matt.Dawson@glasgow.ac.uk:staff
+user14:password:Nicola:Veitch:Nicola.Veitch@glasgow.ac.uk:staff
+user15:password:Nicolas:Labrosse:Nicolas.Labrosse@glasgow.ac.uk:staff
+user16:password:Pam:Scott:Pamela.Scott@glasgow.ac.uk:staff
+user17:password:Peter H:Sneddon:Peter.Sneddon@glasgow.ac.uk:staff
+user18:password:Rosanne:English:Rosanne.English@glasgow.ac.uk:staff
+user19:password:Sharon:Sneddon:Sharon.Sneddon@glasgow.ac.uk:staff
+user20:password:Susan:Batchelor:Susan.Batchelor@glasgow.ac.uk:staff
+user21:password:Susan:Deeley:Susan.Deeley@glasgow.ac.uk:staff
+user22:password:Tim:Dempster:Tim.Dempster@glasgow.ac.uk:staff

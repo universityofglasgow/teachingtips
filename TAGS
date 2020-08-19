@@ -1,0 +1,533 @@
+
+admin/Scores.php,203
+class Scores 2,6
+  function Scores(3,21
+  function update(79,2832
+  function engagementScore(87,3081
+  function esteemScore(89,3199
+  function showEsteem(91,3305
+  function showEngagement(93,3409
+
+admin/teachingtips.php,22
+  var $this 178,6684
+
+lib/sharedfunctions.php,1455
+function getUserRecord(4,117
+function getLatestTeachingTips(49,1621
+function getTeachingTip(61,2035
+function checkUserLikesTT(65,2246
+function userLikesTT(70,2489
+function userUnlikesTT(81,2758
+function getTopLikedTeachingTips(108,3787
+function commentTime(114,4040
+function userCommentsTT(120,4228
+function userSharedTT(140,4815
+function getFilterCategory(147,5250
+function getTTsWithFilters(155,5610
+function searchTTKeywordsByKeyword(163,5967
+function searchUsersByKeyword(172,6288
+function searchUsersByEmailKeyword(179,6697
+function searchTitlesByKeyword(187,6970
+function searchKeywordsByKeyword(194,7183
+function myTeachingTips(201,7451
+function deleteComment(205,7603
+function searchTTs(225,8524
+function searchTTsByAuthor(248,9762
+function searchTTsByKeyword(266,10473
+function checkUserFollowsUser(283,11141
+function userUnfollowsUser(287,11384
+function getFollowers(294,11845
+function getFollowing(301,12107
+function getSameSchoolUsers(308,12369
+function createNotification(314,12685
+function deleteNotification(350,13833
+function getTtCommentUsers 355,14078
+function notifications(365,14522
+function notificationsPrinting(451,18834
+function pageNotFound(555,23683
+function displayUserAwards(582,24853
+function updateAdminSettings(594,25284
+function thisUrl(627,26341
+function mailx(640,26968
+function sendEmailShare(649,27206
+function sendEmailNotification(690,28786
+function sendWeeklyDigest(797,33599
+
+lib/login.php,59
+function checkLoggedInUser(5,98
+function loginBox(21,560
+
+lib/guldap_login.php,59
+function checkLogin(2,7
+function uinfoFromGULDAP(51,1456
+
+lib/addbundle_form.php,563
+class addbundle_form 4,46
+	var $form_magic_id 6,84
+	var $title;7,142
+	var $id;8,164
+	var $problemstatement;9,183
+	var $thisbundle;10,214
+	var $wayitworks;11,239
+	var $worksbetter;12,264
+	var $doesntwork;13,290
+	var $doesntworkunless;14,315
+	var $workedif;15,346
+	var $variations;16,369
+	var $solutionstatement;17,394
+	var $validateMessages;18,426
+	function __construct(20,451
+	function setData(30,611
+	function getData(45,1104
+	function readAndValidate(61,1614
+	function validate(91,2789
+	function getHtml(120,4512
+	function post_it(141,6111
+
+lib/formfunctions.php,97
+function sanitize_input(2,6
+function teachingtip_add(6,98
+function teachingtip_update(83,1933
+
+lib/add_comment.php,371
+class add_comment 4,46
+  var $form_magic_id 5,81
+  var $id;6,147
+  var $user_id;7,167
+  var $teachingpractice_id;8,183
+  var $time;9,211
+  var $comment;10,224
+  function __construct(12,242
+  function setData(19,403
+  function getData(27,631
+  function readAndValidate(36,876
+  function validate(57,1626
+  function getHtml(69,2068
+  function post_it(83,2675
+
+lib/database.php,8490
+function initializeDataBase_(4,62
+class ChangeTracker 157,3931
+  var $_original;158,3954
+  var $_changes;159,3973
+  function ChangeTracker(161,3997
+  function hasChanges(166,4112
+  function changes(168,4177
+  function setIfChanged(170,4231
+class user 185,4766
+  var $id;186,4780
+  var $name;187,4792
+  var $lastname;188,4806
+  var $phonenumber;189,4824
+  var $username;190,4845
+  var $email;191,4863
+  var $profile_picture;192,4878
+  var $school;193,4903
+  var $esteem;194,4919
+  var $engagement;195,4935
+  var $lastaccess;196,4955
+  var $joindate;197,4975
+  var $last_visit;198,4993
+  var $isadmin;199,5013
+  function user(201,5034
+  function fromArray(220,5533
+  function insert(266,7355
+  function update(290,8744
+  function toXML(328,10307
+  function get_school_for_tt(380,12554
+  function get_number_new_tts(397,13138
+  function getLikes(405,13408
+  function getComments(412,13683
+  function getShares(419,13974
+  function get_number_tts(426,14258
+  function get_most_recent_tip_date(431,14508
+  function get_number_received_likes(436,14775
+  function get_number_received_comments(444,15189
+  function get_number_shares_of_tts(451,15612
+  function get_number_received_views_tts(458,16025
+  function get_number_followers(465,16369
+  function get_number_given_likes(470,16618
+  function get_number_given_views(476,17038
+  function get_number_given_shares(482,17450
+  function get_number_given_comments(488,17878
+  function get_number_following(494,18310
+  function get_teaching_tips(500,18584
+  function get_contr_teaching_tips(507,18866
+  function get_top_teaching_tips(514,19205
+  function esteem_like_tt(547,20560
+  function esteem_unlike_tt(554,20817
+  function esteem_share_tt(562,21145
+  function esteem_comment_tt(570,21482
+  function esteem_delete_comment_tt(577,21745
+  function esteem_views_tt(585,22080
+  function esteem_follow(593,22407
+  function get_settings(601,22692
+  function engagement_like_tt(610,22917
+  function engagement_unlike_tt(617,23190
+  function engagement_share_tt(625,23533
+  function engagement_comment_tt(633,23883
+  function engagement_delete_comment_tt(640,24162
+  function engagement_views_tt(648,24535
+  function engagement_follow(656,24882
+  function get_awards(666,25148
+  function get_number_awards(680,25659
+  function promote_awards(689,26263
+  function get_highest_award(699,26804
+  function update_awards(710,27371
+  function update_overall_awards(798,29661
+  function get_past_week_notifications(844,31375
+class user_settings 866,32125
+  var $id;867,32148
+  var $user_id;868,32174
+  var $school_posts;869,32205
+  var $tts_activity;870,32227
+  var $followers_posts;871,32249
+  var $awards;872,32274
+  function user_settings(874,32294
+  function fromArray(885,32630
+	function insert(929,34082
+	function update(949,34937
+	function toXML(975,35888
+class admin992,36578
+	var $id;994,36594
+	var $role;995,36619
+	function admin(997,36634
+	function fromArray(1005,36787
+	function insert(1045,37959
+	function update(1058,38424
+	function toXML(1080,39039
+class admin_settings1093,39374
+	var $id;1095,39399
+	var $esteem_like;1096,39424
+	var $esteem_comment;1097,39444
+	var $esteem_share;1098,39467
+	var $esteem_view;1099,39488
+	var $esteem_follow;1100,39508
+	var $engagement_like;1101,39530
+	var $engagement_comment;1102,39554
+	var $engagement_share;1103,39581
+	var $engagement_view;1104,39606
+	var $engagement_follow;1105,39630
+	var $log_actions;1106,39656
+	function admin_settings(1108,39678
+	function fromArray(1126,40170
+	function insert(1176,41964
+	function update(1199,43296
+	function toXML(1231,44787
+class award1262,46334
+	var $id;1264,46350
+	var $name;1265,46375
+	var $url;1266,46388
+	var $category;1267,46400
+	var $type;1268,46417
+	var $rank;1269,46430
+	var $about;1270,46443
+	function award(1272,46459
+	function fromArray(1285,46722
+	function insert(1330,48077
+	function update(1348,48870
+	function toXML(1375,49813
+class user_earns_award1400,50813
+	var $id;1402,50840
+	var $user_id;1403,50865
+	var $award_id;1404,50895
+	var $time;1405,50926
+	var $promoted;1406,50939
+	function user_earns_award(1408,50958
+	function fromArray(1419,51273
+	function insert(1462,52717
+	function update(1484,53535
+	function toXML(1509,54389
+class teachingtip 1525,54960
+	var $id;1526,54981
+	var $author_id;1527,55006
+	var $title;1528,55038
+	var $time;1529,55052
+	var $rationale;1530,55065
+	var $description;1531,55083
+	var $practice;1532,55103
+	var $worksbetter;1533,55120
+	var $doesntworkunless;1534,55140
+	var $essence;1535,55165
+	var $school;1536,55181
+	var $status;1537,55196
+	function teachingtip(1539,55213
+	function fromArray(1558,55707
+	function insert(1609,57487
+	function update(1635,58760
+	function toXML(1667,60126
+	function get_author(1734,62736
+	function get_comments(1742,63035
+	function get_keywords(1753,63403
+	function get_all_filters(1761,63742
+	function get_filters(1769,64083
+	function get_number_likes(1781,64477
+	function get_number_likes_not_author(1786,64713
+	function get_number_comments(1794,65028
+	function get_number_comments_not_author(1800,65365
+	function get_number_shares(1808,65693
+	function get_number_views(1813,65933
+	function get_contributors(1818,66149
+	function get_contributors_ids(1826,66496
+class ttcomment1903,69361
+	var $id;1905,69381
+	var $time;1906,69406
+	var $comment;1907,69419
+	var $archived;1908,69435
+	function ttcomment(1910,69454
+	function fromArray(1920,69665
+	function insert(1962,70970
+	function update(1977,71584
+	function toXML(2001,72352
+	function get_author(2013,72780
+class ttkeyword2023,73204
+	var $id;2025,73224
+	var $ttid_id;2026,73249
+	var $keyword;2027,73279
+	var $archived;2028,73295
+	function ttkeyword(2030,73314
+	function fromArray(2040,73560
+	function insert(2082,74873
+	function update(2100,75552
+	function toXML(2124,76323
+class ttfilter2143,76878
+	var $id;2145,76897
+	var $teachingtip_id;2146,76922
+	var $category;2147,76959
+	var $opt;2148,76976
+	function ttfilter(2150,76990
+	function fromArray(2160,77237
+	function insert(2202,78550
+	function update(2220,79241
+	function toXML(2244,80016
+class ttview2259,80511
+	var $id;2261,80528
+	var $teachingtip_id;2262,80553
+	var $user_id;2263,80590
+	var $time;2264,80620
+	function ttview(2266,80635
+	function fromArray(2276,80920
+	function insert(2318,82273
+	function update(2339,83027
+	function toXML(2363,83801
+class contributors2385,84656
+	var $id;2387,84679
+	var $user_id;2388,84704
+	var $teachingtip_id;2389,84734
+	var $email;2390,84771
+	var $seen;2391,84785
+	function contributors(2393,84800
+	function fromArray(2404,85110
+	function insert(2442,86413
+	function update(2464,87236
+	function toXML(2489,88085
+class user_comments_tt2505,88649
+	var $id;2507,88676
+	var $user_id;2508,88701
+	var $teachingtip_id;2509,88731
+	var $comment_id;2510,88768
+	var $time;2511,88801
+	var $archived;2512,88814
+	function user_comments_tt(2514,88833
+	function fromArray(2526,89217
+	function insert(2570,90747
+	function update(2596,91724
+	function toXML(2622,92666
+class user_likes_tt2650,93703
+	var $id;2652,93727
+	var $user_id;2653,93752
+	var $teachingtip_id;2654,93782
+	var $time;2655,93819
+	var $archived;2656,93832
+	function user_likes_tt(2658,93851
+	function fromArray(2669,94169
+	function insert(2712,95607
+	function update(2734,96440
+	function toXML(2759,97300
+class user_shares_tt2786,98248
+	var $id;2788,98273
+	var $sender;2789,98298
+	var $recipient;2790,98313
+	var $teachingtip_id;2791,98331
+	var $time;2792,98368
+	var $message;2793,98381
+	var $archived;2794,98397
+	function user_shares_tt(2796,98416
+	function fromArray(2809,98748
+	function insert(2854,100249
+	function update(2875,101163
+	function toXML(2902,102167
+class user_follows_user2931,103272
+	var $id;2933,103300
+	var $follower_id;2934,103325
+	var $user_id;2935,103359
+	var $time;2936,103389
+	function user_follows_user(2938,103404
+	function fromArray(2948,103697
+	function insert(2990,105110
+	function update(3011,105866
+	function toXML(3035,106656
+class notification3050,107169
+	var $id;3052,107192
+	var $user_id;3053,107217
+	var $activity_id;3054,107247
+	var $activity_type;3055,107267
+	var $category;3056,107289
+	var $time;3057,107306
+	var $seen;3058,107319
+	function notification(3060,107334
+	function fromArray(3073,107664
+	function insert(3118,109151
+	function update(3139,110054
+	function toXML(3166,111052
+
+config.php,62
+define("UPLOAD_DIR"UPLOAD_DIR15,427
+function Debug(37,1054
+
+myactivity.php,22
+function cmp(88,3668
+
+tmp.php,22
+function show(16,420
+
+corelib/dataaccess.php,27
+class dataConnection 4,58
+
+corelib/safeRequestFunctions.php,194
+function requestSet(2,6
+function requestInt(6,72
+function requestStr(13,230
+function requestRaw(20,406
+function requestNum(27,550
+function requestHex(37,830
+function requestIdent(44,1038
+
+corelib/form_lib2.php,1191
+define('FORM_NOTSUBMITTED'FORM_NOTSUBMITTED21,887
+define('FORM_SUBMITTED_VALID'FORM_SUBMITTED_VALID22,918
+define('FORM_SUBMITTED_INVALID'FORM_SUBMITTED_INVALID23,953
+define('FORM_CANCELED'FORM_CANCELED24,990
+    function __construct(32,1117
+    function disable(38,1226
+    function enable(43,1324
+    function getStatus(48,1403
+	function formStart(53,1472
+	function formEnd(65,1801
+	function submitInput(83,2375
+	function getFormInput(93,2730
+	function textInput(101,2887
+	function textInputCompact(117,3613
+	function fixedInput(134,4475
+	function uploadInput(144,4832
+	function hiddenInput(161,5581
+	function startFieldset(167,5716
+	function checkboxInput(180,6076
+	function checkboxInputCompact(198,6839
+	function radioInputCompact(217,7631
+	function radioInput(234,8403
+	function radioGroupInput(250,9073
+	function inlineRadioGroupInput(289,10604
+	function textareaInput(327,12092
+	function passwordInput(345,12873
+	function selectListInput(361,13611
+	function selectListInputCompact(393,14636
+    function groupStart(432,15949
+    function groupEnd(440,16121
+	function dateInput(445,16185
+	function form2date(464,16924
+	function date2form(470,17059
+
+corelib/templateMerge.php,226
+class templateMerge 21,839
+  var $fields;22,874
+  var $dataNames;23,889
+  var $pageData;24,907
+  function templateMerge(26,925
+  function render(57,1960
+  function sectionRender(79,2546
+  function decodeParams(97,3186
+
+teaching_tip_add.php,89
+                            class="tt-add-form-tooltip"="tt-add-form-tooltip"399,15232
+
+teaching_tip.php,27
+function plural(253,10373
+
+notifications.php,0
+
+index.php,0
+
+corelib/force_ssl.php,0
+
+phpinfo.php,0
+
+ajax/deleteActivity.php,0
+
+ajax/markNotificationsRead.php,0
+
+ajax/tt_add_comment.php,0
+
+ajax/deleteTT.php,0
+
+ajax/view_more_notifications.php,0
+
+ajax/tt_share.php,0
+
+ajax/tt_edit_comment.php,0
+
+ajax/notification_seen.php,0
+
+ajax/reload_notifications.php,0
+
+ajax/view_more_home.php,0
+
+ajax/view_more_profile.php,0
+
+ajax/tt_keyword_autocomplete.php,0
+
+ajax/view_more.php,0
+
+ajax/like_tt.php,0
+
+ajax/follow_user.php,0
+
+ajax/tt_delete_comment.php,0
+
+ajax/tt_share_auto_complete.php,0
+
+ajax/qsearch.php,0
+
+ajax/view-more-contrib.php,0
+
+search.php,0
+
+top_users.php,0
+
+profile.php,0
+
+ethics.php,0
+
+myteachingtips.php,0
+
+login.php,0
+
+weekly_digest.php,0
+
+initialise.php,0
+
+lib/constants.php,0
+
+lib/image_upload.php,0
+
+settings.php,0
+
+about.php,0
+
+admin/index.php,0
+
+admin/statistics.php,0
+
+admin/users.php,0
+
+what_is_a_tt.php,0

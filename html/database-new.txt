@@ -1,0 +1,165 @@
+http://www.niallbarr.me.uk/wizards2/dbwiz/index.php                        for db generation
+
+
+class user{
+    primary key int id;
+    string[30] name;
+    string[30] lastname;
+    string[20] phonenumber;
+    string[20] username;
+    string[50] email;
+    string[50] profile_picture;
+    string[50] college;
+    string[50] school;
+    int esteem;
+    int engagement;
+    date lastaccess;
+    date joindate;
+    boolean isadmin;  
+}
+
+class user_settings {
+    primary key int id;
+    user user;
+    int school_posts;
+    int tts_activity;
+    int followers_posts;
+    int followers_activity;
+    int awards;
+}
+
+class admin{
+    primary key int id;
+    string[20] role;
+}
+
+class admin_settings {
+    primary key int id;
+    int esteem_like;
+    int esteem_comment;
+    int esteem_share;
+    int esteem_number_views_1;
+    int esteem_number_views_2;
+    int esteem_number_views_3;
+    int esteem_views_1;
+    int esteem_views_2;
+    int esteem_views_3;
+    int engagement_like;
+    int engagement_comment;
+    int engagement_share;
+    int engagement_number_views_1;
+    int engagement_number_views_2;
+    int engagement_number_views_3;
+    int engagement_views_1;
+    int engagement_views_2;
+    int engagement_views_3;
+    int award_activity;
+    int award_promote;
+}
+
+class award{
+    primary key int id;
+    string[40] name;
+    string[50] url;
+    string[20] category;
+    string[20] type;
+    int rank;
+    string[128] about;
+}
+
+class user_earns_award{
+    primary key int id;
+    user user;
+    award award;
+    datetime time;
+    int promoted;
+}
+
+class teachingtip{
+    primary key int id;
+    user author;
+    string[128] title;
+    datetime time;
+    memo rationale;
+    memo description;
+    memo practice;
+    memo worksbetter;
+    memo doesntworkunless;
+    memo essence;
+    int archived;
+    int draft;
+}
+
+class ttcomment {
+    primary key int id;
+    datetime time;
+    memo comment;
+    int archived;
+}
+
+class ttkeyword {
+    primary key int id;
+    teachingtip ttid;
+    string[30] keyword;
+    int archived;
+}
+
+class ttview {
+    primary key int id;
+    teachingtip teachingtip;
+    user user;
+    datetime time;
+}
+
+class contributors{
+    primary key int id;
+    user user;
+    teachingtip teachingtip;
+    int seen;
+}
+
+class user_comments_tt{
+    primary key int id;
+    user user;
+    teachingtip teachingtip;
+    ttcomment comment;
+    datetime time;
+    int archived;
+}
+
+class user_likes_tt{
+    primary key int id;
+    user user;
+    teachingtip teachingtip;
+    datetime time;
+    int archived;
+}
+
+class user_shares_tt{
+    primary key int id;
+    string[50] sender;
+    string[50] recipient;
+    teachingtip teachingtip;
+    datetime time;
+    memo message;
+    int archived;
+}
+
+class user_follows_user {
+    primary key int id;
+    user follower;
+    user user;
+    datetime time;
+}
+
+class notification {
+    primary key int id;
+    user user;
+    int activity_id;
+    string[10] activity_type;
+    string[20] category;
+    datetime time;
+    int seen;
+}
+
+
